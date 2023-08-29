@@ -1,6 +1,6 @@
 # Lenovo90H0005HRS-OC
 OpenCore EFI folder for Lenovo 720-18IKL (90H0005HRS) to install macOS Monterey.
-Danger! No LAN kexts included.
+Danger! No LAN kexts included. (no need, Ethernet is native there.)
 Guide:
 1. Download Etcher from balena and flash Olarila Monterey image (you can find it in the Internet).
 2. Flash it using Etcher (USB stick will be formatted).
